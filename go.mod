@@ -1,4 +1,4 @@
-module github.com/aronipurwanto/go-restful-api
+module github.com/Kahffi/go-rest-api-test
 
 go 1.23.2
 

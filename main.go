@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/aronipurwanto/go-restful-api/app"
-	"github.com/aronipurwanto/go-restful-api/controller"
-	"github.com/aronipurwanto/go-restful-api/helper"
-	"github.com/aronipurwanto/go-restful-api/model/domain"
-	"github.com/aronipurwanto/go-restful-api/repository"
-	"github.com/aronipurwanto/go-restful-api/service"
+	"github.com/Kahffi/go-rest-api-test/app"
+	"github.com/Kahffi/go-rest-api-test/controller"
+	"github.com/Kahffi/go-rest-api-test/helper"
+	"github.com/Kahffi/go-rest-api-test/model/domain"
+	"github.com/Kahffi/go-rest-api-test/repository"
+	"github.com/Kahffi/go-rest-api-test/service"
 	"github.com/go-playground/validator/v10"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/gofiber/fiber/v2"

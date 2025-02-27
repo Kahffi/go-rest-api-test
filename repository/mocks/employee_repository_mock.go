@@ -8,7 +8,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	domain "github.com/aronipurwanto/go-restful-api/model/domain"
+	domain "github.com/Kahffi/go-rest-api-test/model/domain"
 	gomock "github.com/golang/mock/gomock"
 )
 

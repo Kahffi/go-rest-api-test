@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/aronipurwanto/go-restful-api/model/web"
+	"github.com/Kahffi/go-rest-api-test/model/web"
 	"github.com/gofiber/fiber/v2"
 )
 

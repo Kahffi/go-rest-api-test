@@ -3,9 +3,9 @@ package service
 import (
 	"context"
 	"errors"
-	"github.com/aronipurwanto/go-restful-api/model/domain"
-	"github.com/aronipurwanto/go-restful-api/model/web"
-	"github.com/aronipurwanto/go-restful-api/repository/mocks"
+	"github.com/Kahffi/go-rest-api-test/model/domain"
+	"github.com/Kahffi/go-rest-api-test/model/web"
+	"github.com/Kahffi/go-rest-api-test/repository/mocks"
 	"github.com/go-playground/validator/v10"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"

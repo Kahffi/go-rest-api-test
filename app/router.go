@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/aronipurwanto/go-restful-api/controller"
-	"github.com/aronipurwanto/go-restful-api/middleware"
+	"github.com/Kahffi/go-rest-api-test/controller"
+	"github.com/Kahffi/go-rest-api-test/middleware"
 	"github.com/gofiber/fiber/v2"
 )
 

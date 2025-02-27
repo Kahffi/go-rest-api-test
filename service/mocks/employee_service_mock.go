@@ -8,7 +8,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	web "github.com/aronipurwanto/go-restful-api/model/web"
+	web "github.com/Kahffi/go-rest-api-test/model/web"
 	gomock "github.com/golang/mock/gomock"
 )
 
